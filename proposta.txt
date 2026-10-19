@@ -1,0 +1,10 @@
+Nome: Viktor Hernandes Regert
+Tema: Site de montagem de roda
+
+Entidades:
+
+-Roda montada: Nome/apelido, 
+-Raio: tamanho
+-Cubo: modelo, número de furos
+-Aro: modelo, número de furos, tamanho
+-Montagem: tramagem, 
